@@ -2,3 +2,8 @@
     border: solid black;
   
 }
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
