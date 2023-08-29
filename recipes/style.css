@@ -1,9 +1,14 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 .container {
     border: solid black;
   
 }
 
+
 h1 {
     text-align: center;
     font-size: 40px;
 }
+
